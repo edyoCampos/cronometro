@@ -83,7 +83,7 @@ function timerReverse() {
     document.getElementById('counter').innerText = format;
 
     //Retorna o valor tratado
-    return format;
+    //return format;
 }
 
 
